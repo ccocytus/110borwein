@@ -22,10 +22,12 @@ The results include both the value of the integral and the absolute difference b
 ## Usage
 
 The program is designed to be run from the command line. Here’s how you can use it:
-in C```sh
+in C
+```sh
 ./110borwein n
 ```
-in Rust```sh
+in Rust
+```sh
 ./bonus/110borwein
 ```
 
