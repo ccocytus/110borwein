@@ -22,6 +22,7 @@ The results include both the value of the integral and the absolute difference b
 ## Usage
 
 The program is designed to be run from the command line. Here’s how you can use it:
+
 in C
 ```sh
 ./110borwein n
